@@ -1,3 +1,6 @@
 # learn-git
 test repo to fork
-ya i have testrd its great
+
+ya i have tested its great
+git is useful 
+
