@@ -1,2 +1,11 @@
 sir please add some basic command of git 
 and some of great organistaions.... 
+
+$ git clone repository address    //replace repository address
+$ git add .
+$ git config user.name "name"    //replace name by your name
+$ git config user.email "email-address"
+$ git commit -m "commit"       //replace commit
+$ git remote add origin <remote repository address>
+$ git push origin master
+
